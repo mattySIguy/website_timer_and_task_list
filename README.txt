@@ -1,6 +1,6 @@
 # Productivity Timer Useful v2
 
-A productivity tool designed to promote healthier use of social media by helping users stay on task and purposeful. The application uses a timer and a checklist to manage activities within a given time block, ultimately blocking access to specified websites once the time is up.
+A productivity tool that encourages healthier social media use by keeping users focused and purposeful. It combines a timer and checklist to manage tasks within a set time block, then blocks access to specified websites when time runs out.
 
 ## Table of Contents
 - [Features](#features)
